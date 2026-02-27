@@ -1,0 +1,5 @@
+{
+  "name": "MDS World-Class Client Experience Survey",
+  "description": "A high-fidelity, adaptive multi-step survey for MDS clients featuring smart prioritization logic, conditional branching, and recovery triggers for low-satisfaction responses.",
+  "requestFramePermissions": []
+}
