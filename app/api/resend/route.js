@@ -143,7 +143,7 @@ export async function POST(request) {
       }
     });
 
-    // 3. Growth Systems
+    // 3. Growth Systesms
     if (responses.SET_GROWTH_SYSTEMS?.length > 0) {
       responses.SET_GROWTH_SYSTEMS.forEach((gs, index) => {
         const sectionData = { title: `Growth System: ${gs}`, items: [] };
